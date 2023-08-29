@@ -2,7 +2,7 @@
  
 - 🌱 engenharia de software 0/5
   
--->
+
 <div style="display: inline_block">tecnologia que uso no meu dia
  :<br>
   <img align="center" alt="nicolas-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
